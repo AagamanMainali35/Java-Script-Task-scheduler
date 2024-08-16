@@ -1,27 +1,30 @@
-## .preview
-![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
+Quiz App 🎓
+Welcome to the Quiz App! This is a simple and interactive quiz application built with HTML, CSS, and JavaScript. The app allows users to take quizzes, get instant feedback, and track their scores.
 
-## .features
-- [x] Show tasks list
-- [x] Add new task
-- [ ] Complete task
-- [x] Delete task
-- [x] Edit task
-- [x] Clear all tasks
-- [ ] Clear complete tasks
-- [x] Save on local storage
-- [x] Reverse sort by id
-- [x] Show message if not task
-- [x] Show toast when add, delete task
-- [x] Change alert box to modal
-- [x] Custom scrollbar
-- [x] Responsivity
+Features ✨
+Interactive Quizzes 📝: Engage with multiple-choice questions and test your knowledge.
+Real-Time Feedback 📈: Get immediate feedback on your answers.
+Score Tracking 🏆: View your score at the end of the quiz.
+Responsive Design 📱: Enjoy the app on any device with a user-friendly layout.
 
-## .tools
-- Css Framework: [Semantic UI](https://semantic-ui.com)
-- Toast or Notification: [Noty](https://ned.im/noty)
 
-## .contact
-- Email: [dev.mehdineysi@gmail.com](mailto:dev.mehdineysi@gmail.com)
-- Instagram: [@neysidev](https://instagram.com/neysidev)
-- Twitter: [@neysidev](https://twitter.com/neysidev)
+Technologies Used 💻
+HTML 🏗️: The structure of the quiz app.
+CSS 🎨: Styling and layout to make the app visually appealing.
+JavaScript ⚙️: Adding interactivity and functionality to the quiz.
+Installation 🔧
+To get started with the Quiz App on your local machine, follow these steps:
+
+Clone the Repository 🚀:
+git clone https://github.com/Ancient100000/todo-app.git
+
+
+Contact 📫
+If you have any questions or feedback, please contact me:
+
+Email: Aagamanmainali35@gmail.com
+GitHub: https://github.com/Ancient100000
+
+
+Preview of project :
+![alt text](image.png)
