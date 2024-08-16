@@ -6,13 +6,13 @@ count=1;
 let btn = document.getElementById('btn');
 let btn2 = document.getElementById('btn2');
 btn.onclick = () => {
-   
     let addElement = document.createElement('p');
     task = input.value;
     addElement.textContent = `${count++}. ${task}`;
     addElement.onclick = () => {
         addElement.style.textDecoration = 'line-through';
         setTimeout(()=>{addElement.remove()},500) 
+        count=1;
     };
     elm3.appendChild(addElement);
     elm3.style.height = 'auto';
