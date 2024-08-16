@@ -23,7 +23,7 @@ To get started with the To-Do App on your local machine, follow these steps:
 
 
 
-Preview of project :
+**Preview of project :**
 
 
 ![alt text](image.png)
